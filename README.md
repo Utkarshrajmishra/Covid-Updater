@@ -24,23 +24,7 @@ public static final String API_KEY = "your_news_api_key_here";
 * Latest News from India related to the covid-19.
 * Verified Fake news for awareness.
 
-## Few Screenshots
-<table>
-  <tr>
-    <td>
-      <img src="screenshots/Screenshot1.png" width="270"/>
-    </td>
-    <td>
-      <img src="screenshots/Screenshot2.png" width="270"/>
-    </td>
-    <td>
-      <img src="screenshots/Screenshot3.png" width="270"/>
-    </td>
-    <td>
-      <img src="screenshots/Screenshot4.png" width="270"/>
-    </td>
-  </tr>
- </table>
+
 
 ## Why this App is not on PlayStore
 PlayStore and AppleStore has suspended all the unauthorised Covid-19 related Apps from their platform to minimize the misinformation spread. They only allow App which are affiliated by Government or by any renowned Medical Institute. My App is not affiliated by Government or Medical Institutions.
